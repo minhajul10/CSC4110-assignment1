@@ -1,3 +1,3 @@
-# Github and git conflict
+# GitHub and git conflict
 **Minhajul Abadeen**
 ga1116
